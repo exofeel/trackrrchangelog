@@ -1,0 +1,6 @@
+1.0.3-alpha
+Thursday June 14
+- Added support for top charts for albums (pulled from billboard)
+- Slightly improved accuracy for searching songs
+- added changelog command
+- Laid foundation for Deezer support
